@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=JFigures
+Comment=figure search
+Exec=/usr/bin/python3 /home/edwardkan/Repo/tools/jfigures/search/search_gui.py
+Icon=/home/edwardkan/Repo/tools/jfigures/icon.png
+Terminal=false
+Categories=application/x-desktop;
+Name[en_US]=JProdSearch
